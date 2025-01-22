@@ -12,6 +12,6 @@
 
 ### Dia 5: Análise exploratória dos dados: Boxplot
 
-### Dia 6: Dados adicionais
+### Dia 6: Dados adicionais: Alunos de graduação
 
-### Dia 7: Apresentação dos resultados em HTML
+### Dia 7: Dados adicionais: ALunos de pós-graduação + Gerando tabela em HTML

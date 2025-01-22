@@ -14,4 +14,4 @@
 
 ### Dia 6: Dados adicionais
 
-### Dia 7: Customização de tabelas
+### Dia 7: Apresentação dos resultados em HTML

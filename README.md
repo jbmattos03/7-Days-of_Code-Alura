@@ -1,6 +1,4 @@
-# 7 Days of Code - Alura
-
-## Exploração de dados de empréstimos dos acervos do sistema de bibliotecas da UFRN
+# Exploração de dados de empréstimos dos acervos do sistema de bibliotecas da UFRN
 
 ### Dia 1: Importação e unificação dos dados
 + Importar dados
@@ -27,7 +25,7 @@
 + Importar dados dos usuários (alunos de graduação)
 + Calcular quantidade de empréstimos realizados entre 2015 e 2020 pelos cursos: Biblioteconomia, Ciências sociais, Comunicação social, Direito, Filosofia e Pedagogia
 
-### Dia 7: Dados adicionais: ALunos de pós-graduação + Gerando tabela em HTML
+### Dia 7: Dados adicionais: Alunos de pós-graduação + Gerando tabela em HTML
 + Importar dados dos usuários (alunos de pós)
 + Gerar tabela com diferença percentual dos anos 2017-2018, 2018-2019 e 2019-2022
 + Gerar tabela em HTMl
